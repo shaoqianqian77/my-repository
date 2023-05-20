@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/Takeshi Kitano/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/wiki/Takeshi Kitano/","created":"","updated":""}
 ---
 
 # Takeshi Kitano
