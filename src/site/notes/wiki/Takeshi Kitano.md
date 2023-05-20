@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/Takeshi Kitano/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/wiki/Takeshi Kitano/","created":"2023-05-20T22:29:15.916+08:00","updated":"2023-05-21T00:05:25.500+08:00"}
 ---
 
-# Takeshi Kitano
 
-进步
+进步 北野武
 
 你离开我，已经过了几天呢？  
 是因为寂寞吗，我对许多事情产生了兴趣  
