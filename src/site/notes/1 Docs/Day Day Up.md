@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1 Docs/Day Day Up/","hide":true,"tags":["gardenEntry"],"created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-22T01:19:15.011+08:00"}
+{"dg-publish":true,"permalink":"/1 Docs/Day Day Up/","created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-22T01:33:37.712+08:00"}
 ---
 
 # Day Day Up
