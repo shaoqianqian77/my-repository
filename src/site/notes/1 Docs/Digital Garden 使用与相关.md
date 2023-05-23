@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1 Docs/Digital Garden 使用与相关/","created":"2023-05-21T14:02:43.825+08:00","updated":"2023-05-21T19:18:09.830+08:00"}
+{"dg-publish":true,"permalink":"/1 Docs/Digital Garden 使用与相关/","created":"2023-05-21T14:02:43.825+08:00","updated":"2023-05-23T02:34:08.494+08:00"}
 ---
 
 
@@ -28,6 +28,11 @@ dg-hide-in-graph: true 在图表中隐藏
 
 - 官方文档 | [Digital Garden Overview](https://dg-docs.ole.dev/)
 - 插件开发者的数字花园 | [+Hage](https://notes.ole.dev/)
+- Alex Rinehart | 作家、讲故事的人、角色扮演游戏开发者* | [About Me](https://garden.alexrinehart.net/about-me/about-me/)
+	- 他的其它网站：[Alex Rinehart's Creative Space](https://alexrinehart.net/)
+- pheelwell | ob 的文本探险游戏、新颖的 Dg、ADHD | [Landing Page](https://pheelwell-garden.vercel.app/)
+- My Knowledge Tree | 编程、生产力 | [My Knowledge Tree](https://pawelel.netlify.app/)
+- emha | 阅读笔记、ob | [000\_My Second Brain](https://www.emhabayu.com/)
 - 马列毛实验室 | 本朝历史 zh | [Site Unreachable](https://read-notes-ouyangzh-cn.vercel.app/)
 	- 时间轴的呈现很有趣*，可以用来展示图形
 - Eric Liao | 中英文會議/法庭口譯 | [00 Eric Liao Interpreting](https://ericliaointerpreting.netlify.app/)
@@ -36,11 +41,19 @@ dg-hide-in-graph: true 在图表中隐藏
 - 冬宫 | 宗教、死亡 | [The Threshold](https://hermitage.utsob.me/)
 - Jackie | 很少量更新、十日冥想 zh | [Jackie](https://digitalgarden-lime.vercel.app/)
 
+### Obsidian 官方发布
+
+-  TfT Hacker | 生产力工具和系统 | [Welcome - TfT Hacker](https://tfthacker.com/Welcome)
+
+### Obsidian 其它发布
+
+- oldwinter | 中文第三方发布方案最全总结、实用技巧 | [🌱 oldwinterの数字花园](https://notes.oldwinter.top/) [The Garden](https://garden.oldwinter.top/)
 ### Logseq
 
-- 漩涡 | 程序员 | [Logseq](https://note.xuanwo.io/#/page/contents)
+- Singee | 各种工具箱、学习方法等 | [notes.singee.me](https://notes.singee.me/#/page/home)
+- 漩涡 | 程序员 | [xuanwo](https://note.xuanwo.io/#/page/contents)
 - 山师教授 | 日记、阅读 | [zhangxueshan](https://zhangxueshan246.github.io/)
-- 社区 | [GitHub - logseq/awesome-logseq: Awesome Logseq resources created by the community <3](https://github.com/logseq/awesome-logseq)
+- 社区 | [GitHub - logseq](https://github.com/logseq/awesome-logseq)
 - 社区的学习课程* - 学习如何学习 | 信息检索和组织技巧 [Latest Queries topics - Logseq](https://discuss.logseq.com/c/learning-sprints/queries/20)
 ### 其它
 
