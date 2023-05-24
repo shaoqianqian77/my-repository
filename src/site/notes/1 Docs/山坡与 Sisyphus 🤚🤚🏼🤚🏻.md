@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1 Docs/山坡与 Sisyphus 🤚🤚🏼🤚🏻/","hide":true,"tags":["gardenEntry"],"created":"2023-05-22T01:33:40.331+08:00","updated":"2023-05-24T10:33:48.554+08:00"}
+{"dg-publish":true,"permalink":"/1 Docs/山坡与 Sisyphus 🤚🤚🏼🤚🏻/","hide":true,"tags":["gardenEntry"],"created":"2023-05-22T01:33:40.331+08:00","updated":"2023-05-24T10:35:17.509+08:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 		   
 ---
 
-### Good evening, Sisyphus 🤚🏻🤚🏻🤚🏻
+## Good evening, Sisyphus 🤚🏻🤚🏻🤚🏻
 
 ==HP==: ?/70（耐力）
 ==MP==: ?/70（能量）
