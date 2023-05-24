@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1 Docs/Day Day Up/","created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-24T08:14:54.820+08:00"}
+{"dg-publish":true,"permalink":"/1 Docs/Day Day Up/","created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-24T09:43:02.973+08:00"}
 ---
+
 
 # Day Day Up
 
@@ -34,6 +35,10 @@
 05-23
 
 - 没动
+
+05-24
+
+- 健康操 12 min
 
 ## 好好冥想
 
