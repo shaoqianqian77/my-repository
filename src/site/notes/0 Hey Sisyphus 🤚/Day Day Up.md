@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Hey Sisyphus 🤚/Day Day Up/","created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-25T13:48:27.434+08:00"}
+{"dg-publish":true,"permalink":"/0 Hey Sisyphus 🤚/Day Day Up/","created":"2023-04-20T09:35:44.021+08:00","updated":"2023-05-25T15:09:18.856+08:00"}
 ---
 
 # Day Day Up
@@ -78,7 +78,7 @@
 
 05-25
 
-- 
+- 15:10 | Yoga nidra 20 min
   
 
 ## 好好吃饭
