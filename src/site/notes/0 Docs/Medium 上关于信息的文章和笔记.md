@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Docs/Medium 上关于信息的文章和笔记/","created":"2023-04-16T23:13:15.087+08:00","updated":"2023-06-04T22:07:57.542+08:00"}
+{"dg-publish":true,"permalink":"/0 Docs/Medium 上关于信息的文章和笔记/"}
 ---
 
 # Medium 上关于信息的文章和笔记
