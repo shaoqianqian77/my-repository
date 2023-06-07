@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Docs/Yoga nidra 瑜伽睡眠/","created":"2023-05-25T15:40:36.710+08:00","updated":"2023-05-25T16:27:17.873+08:00"}
+{"dg-publish":true,"permalink":"/0 Docs/Yoga nidra 瑜伽睡眠/"}
 ---
 
 # Yoga nidra 瑜伽睡眠
