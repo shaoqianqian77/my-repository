@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Hey Sisyphus 🤚/山坡与 Sisyphus 05-24/","created":"2023-05-22T01:33:40.331+08:00","updated":"2023-05-25T20:14:39.677+08:00"}
+{"dg-publish":true,"permalink":"/0 Hey Sisyphus 🤚/山坡与 Sisyphus 05-24/"}
 ---
 
 # 山坡与 Sisyphus 05-24
