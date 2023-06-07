@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Docs/Thought/","created":"2023-05-21T03:09:14.116+08:00","updated":"2023-05-29T21:08:50.500+08:00"}
+{"dg-publish":true,"permalink":"/0 Docs/Thought/"}
 ---
 
 # Thought
