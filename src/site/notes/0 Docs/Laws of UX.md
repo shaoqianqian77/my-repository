@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 Docs/Laws of UX/","created":"2023-04-16T23:13:14.793+08:00","updated":"2023-06-07T13:37:00.063+08:00"}
+{"dg-publish":true,"permalink":"/0 Docs/Laws of UX/"}
 ---
 
 # Laws of UX
