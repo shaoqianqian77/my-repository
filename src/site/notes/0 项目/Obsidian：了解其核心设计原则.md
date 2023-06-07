@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 项目/Obsidian：了解其核心设计原则/","created":"2023-05-29T14:53:17.416+08:00","updated":"2023-06-07T13:37:21.835+08:00"}
+{"dg-publish":true,"permalink":"/0 项目/Obsidian：了解其核心设计原则/"}
 ---
 
 # Obsidian：了解其核心设计原则
