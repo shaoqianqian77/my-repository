@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/What？人脑的本能、怪癖和缺陷/","created":"2023-05-31T09:57:09.219+08:00","updated":"2023-06-07T13:36:52.636+08:00"}
+{"dg-publish":true,"permalink":"/0/What？人脑的本能、怪癖和缺陷/"}
 ---
 
 # What？人脑的本能、怪癖和缺陷
