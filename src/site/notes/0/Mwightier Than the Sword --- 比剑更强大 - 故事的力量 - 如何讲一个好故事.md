@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/Mwightier Than the Sword --- 比剑更强大 - 故事的力量 - 如何讲一个好故事/","created":"2023-06-06T17:58:49.210+08:00","updated":"2023-06-07T12:34:22.856+08:00"}
+{"dg-publish":true,"permalink":"/0/Mwightier Than the Sword --- 比剑更强大 - 故事的力量 - 如何讲一个好故事/"}
 ---
 
 # Mwightier Than the Sword --- 比剑更强大 - 故事的力量 - 如何讲一个好故事
