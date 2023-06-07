@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 学习和生产力/Dovey Wan 不学「有术」自学与结构化信息处理能力/","created":"2023-04-16T23:13:15.044+08:00","updated":"2023-06-07T13:50:02.545+08:00"}
+{"dg-publish":true,"permalink":"/0 学习和生产力/Dovey Wan 不学「有术」自学与结构化信息处理能力/"}
 ---
 
 # Dovey Wan: 不学「有术」:自学与结构化信息处理能力
