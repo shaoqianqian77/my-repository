@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0/Beware Flavored Software - Divinations - Every --- 当心有味道的软件 - 产品设计 - 洞察力/","created":"2023-06-06T16:52:00.673+08:00","updated":"2023-06-07T12:33:23.715+08:00"}
+{"dg-publish":true,"permalink":"/0/Beware Flavored Software - Divinations - Every --- 当心有味道的软件 - 产品设计 - 洞察力/"}
 ---
 
 # Beware Flavored Software - Divinations - Every --- 当心有味道的软件 - 产品设计 - 洞察力
