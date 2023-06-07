@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 项目/（The scientists who make apps addictive --- 让应用程序成瘾的科学家们（双语机翻）/","created":"2023-05-27T17:34:12.575+08:00","updated":"2023-06-07T13:44:40.758+08:00"}
+{"dg-publish":true,"permalink":"/0 项目/（The scientists who make apps addictive --- 让应用程序成瘾的科学家们（双语机翻）/"}
 ---
 
 # （The scientists who make apps addictive --- 让应用程序成瘾的科学家们（双语机翻）
