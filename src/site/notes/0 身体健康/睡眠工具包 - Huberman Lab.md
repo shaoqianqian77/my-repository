@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0 身体健康/睡眠工具包 - Huberman Lab/","created":"2023-05-30T15:52:04.183+08:00","updated":"2023-06-07T13:51:23.776+08:00"}
+{"dg-publish":true,"permalink":"/0 身体健康/睡眠工具包 - Huberman Lab/"}
 ---
 
 # 睡眠工具包 - Huberman Lab
